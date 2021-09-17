@@ -1,3 +1,4 @@
+
 .screen-header__icons i:last-child{
     position: relative;
 
@@ -67,12 +68,11 @@
     opacity: 0.6;
 }
 
+
 .open-post {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-
 }
 
 .open-post__title {
