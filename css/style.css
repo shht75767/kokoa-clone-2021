@@ -8,12 +8,16 @@
 @import "Components/user-components.css";
 @import "Components/badge.css";
 @import "Components/icon-row.css";
+@import "Components/alt-screen-header.css";
+
 
 /* Screens */
 @import "Screens/login.css";
 @import "Screens/friend.css";
 @import "Screens/find.css";
 @import "Screens/more.css";
+@import "Screens/settings.css";
+
 
 
 

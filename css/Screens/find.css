@@ -1,3 +1,11 @@
+.main-screen {
+    margin-bottom: 80px;
+}
+
+.open-post__space {
+    margin: 20px;
+}
+
 
 .screen-header__icons i:last-child{
     position: relative;
