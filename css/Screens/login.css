@@ -41,11 +41,11 @@ input:focus {
 }
 
 #login-form input:focus {
-    border-color:var(--yellow);
+    border-color: #fae100;
 }
 
 #login-form input[type="submit"] {
-   background-color: var(--yellow);
+   background-color: #fae100;
    cursor: pointer;
 }
 

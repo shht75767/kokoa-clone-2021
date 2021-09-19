@@ -3,7 +3,7 @@
     margin-bottom: 15px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .alt-header__title {
@@ -11,10 +11,24 @@
     font-weight: 600;
 }
 
-.alt-header-column:first-child {
+.alt-header-column {
+    width: 33%;
+}
+
+.alt-header-colunm:first-child {
     margin-right: auto;
 
 }
+
+.alt-header__title {
+    text-align: center;
+}
 .alt-header-column:last-child {
     margin-left: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.alt-header-column span:last-child {
+    margin-left: 20px;
 }
