@@ -9,6 +9,7 @@
 @import "Components/badge.css";
 @import "Components/icon-row.css";
 @import "Components/alt-screen-header.css";
+@import "Components/no-mobile.css";
 
 
 /* Screens */
@@ -18,6 +19,7 @@
 @import "Screens/more.css";
 @import "Screens/settings.css";
 @import "Screens/chat.css";
+
 
 
 
