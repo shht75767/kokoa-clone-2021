@@ -16,8 +16,9 @@
 }
 
 .user-component__title {
-    font-weight: 600;
-    font-size: 22px;
+    margin-left: -10px;
+    font-weight: 400;
+    font-size: 18px;
 }
 .user-component__subtitle{
     margin-top: 5px;
